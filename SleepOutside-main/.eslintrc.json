@@ -19,7 +19,7 @@
     ],
     "arrow-body-style": [2, "as-needed"],
     "no-param-reassign": [
-      2,
+      2, 
       {
         "props": false
       }
