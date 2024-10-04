@@ -10,7 +10,7 @@
     "ecmaVersion": 2020,  
     "sourceType": "module"
   }, 
-  "rules": { 
+  "rules": {  
     "no-unused-vars": [
       1,
       {
